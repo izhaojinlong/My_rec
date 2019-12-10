@@ -1,0 +1,63 @@
+D:\Python_virtual_env\herec\Scripts\python.exe D:/Python_code/HERec/code/embeddingGeneration.py
+deepwalk --format edgelist --input ../data/metapath/ubu_0.8.txt --output ../data/embeddings/ubu_0.8.embedding --walk-length 5 --window-size 3 --number-walks 10 --representation-size 128
+D:\Python_virtual_env\herec\lib\site-packages\gensim\utils.py:1212: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Number of nodes: 14959
+Number of walks: 149590
+Data size (walks*length): 747950
+Walking...
+Training...
+D:\Python_virtual_env\herec\lib\site-packages\smart_open\smart_open_lib.py:398: UserWarning: This function is deprecated, use smart_open.open instead. See the migration notes for details: https://github.com/RaRe-Technologies/smart_open/blob/master/README.rst#migrating-to-the-new-open-function
+  'See the migration notes for details: %s' % _MIGRATION_NOTES_URL
+deepwalk --format edgelist --input ../data/metapath/ubcabu_0.8.txt --output ../data/embeddings/ubcabu_0.8.embedding --walk-length 5 --window-size 3 --number-walks 10 --representation-size 128
+D:\Python_virtual_env\herec\lib\site-packages\gensim\utils.py:1212: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Number of nodes: 15033
+Number of walks: 150330
+Data size (walks*length): 751650
+Walking...
+Training...
+D:\Python_virtual_env\herec\lib\site-packages\smart_open\smart_open_lib.py:398: UserWarning: This function is deprecated, use smart_open.open instead. See the migration notes for details: https://github.com/RaRe-Technologies/smart_open/blob/master/README.rst#migrating-to-the-new-open-function
+  'See the migration notes for details: %s' % _MIGRATION_NOTES_URL
+deepwalk --format edgelist --input ../data/metapath/ubcibu_0.8.txt --output ../data/embeddings/ubcibu_0.8.embedding --walk-length 5 --window-size 3 --number-walks 10 --representation-size 128
+D:\Python_virtual_env\herec\lib\site-packages\gensim\utils.py:1212: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Number of nodes: 15028
+Number of walks: 150280
+Data size (walks*length): 751400
+Walking...
+Training...
+D:\Python_virtual_env\herec\lib\site-packages\smart_open\smart_open_lib.py:398: UserWarning: This function is deprecated, use smart_open.open instead. See the migration notes for details: https://github.com/RaRe-Technologies/smart_open/blob/master/README.rst#migrating-to-the-new-open-function
+  'See the migration notes for details: %s' % _MIGRATION_NOTES_URL
+deepwalk --format edgelist --input ../data/metapath/bub_0.8.txt --output ../data/embeddings/bub_0.8.embedding --walk-length 5 --window-size 3 --number-walks 10 --representation-size 128
+D:\Python_virtual_env\herec\lib\site-packages\gensim\utils.py:1212: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Number of nodes: 13603
+Number of walks: 136030
+Data size (walks*length): 680150
+Walking...
+Training...
+D:\Python_virtual_env\herec\lib\site-packages\smart_open\smart_open_lib.py:398: UserWarning: This function is deprecated, use smart_open.open instead. See the migration notes for details: https://github.com/RaRe-Technologies/smart_open/blob/master/README.rst#migrating-to-the-new-open-function
+  'See the migration notes for details: %s' % _MIGRATION_NOTES_URL
+deepwalk --format edgelist --input ../data/metapath/bcab_0.8.txt --output ../data/embeddings/bcab_0.8.embedding --walk-length 5 --window-size 3 --number-walks 10 --representation-size 128
+D:\Python_virtual_env\herec\lib\site-packages\gensim\utils.py:1212: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Number of nodes: 14180
+Number of walks: 141800
+Data size (walks*length): 709000
+Walking...
+Training...
+D:\Python_virtual_env\herec\lib\site-packages\smart_open\smart_open_lib.py:398: UserWarning: This function is deprecated, use smart_open.open instead. See the migration notes for details: https://github.com/RaRe-Technologies/smart_open/blob/master/README.rst#migrating-to-the-new-open-function
+  'See the migration notes for details: %s' % _MIGRATION_NOTES_URL
+deepwalk --format edgelist --input ../data/metapath/bcib_0.8.txt --output ../data/embeddings/bcib_0.8.embedding --walk-length 5 --window-size 3 --number-walks 10 --representation-size 128
+D:\Python_virtual_env\herec\lib\site-packages\gensim\utils.py:1212: UserWarning: detected Windows; aliasing chunkize to chunkize_serial
+  warnings.warn("detected Windows; aliasing chunkize to chunkize_serial")
+Number of nodes: 14267
+Number of walks: 142670
+Data size (walks*length): 713350
+Walking...
+Training...
+D:\Python_virtual_env\herec\lib\site-packages\smart_open\smart_open_lib.py:398: UserWarning: This function is deprecated, use smart_open.open instead. See the migration notes for details: https://github.com/RaRe-Technologies/smart_open/blob/master/README.rst#migrating-to-the-new-open-function
+  'See the migration notes for details: %s' % _MIGRATION_NOTES_URL
+
+Process finished with exit code 0
